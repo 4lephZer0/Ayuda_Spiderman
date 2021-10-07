@@ -10,27 +10,27 @@ Una vez clonado/descargado el proyecto debes ejecutar "Proyecto.exe" el cual va 
 ## Contexto:
 Este proyecto se hizo con la base de un nonograma y de la idea de generar un mapa a partir de una entrada con el siguiente formato:
 
-**10
-4 1 2 1 1
-2 2 1
-2 1 2
-5 1 1 1 2 1
-2 1 1
-3 1 2 1
-1 1
-3 1 2 2
-4 1 3 3 2
-2 2 2
-0
-0
-1-1-1 1 1 1
-4-1-2 2 2 2 1 1 2 1
-2-1-5 1 1 1 2 1 2 3 2
-1-3-2 1 1 1 1 3 2
-2-1 2 1 2
-1 1
-0
-0**
+>10
+>4 1 2 1 1
+>2 2 1
+>2 1 2
+>5 1 1 1 2 1
+>2 1 1
+>3 1 2 1
+>1 1
+>3 1 2 2
+>4 1 3 3 2
+>2 2 2
+>0
+>0
+>1-1-1 1 1 1
+>4-1-2 2 2 2 1 1 2 1
+>2-1-5 1 1 1 2 1 2 3 2
+>1-3-2 1 1 1 1 3 2
+>2-1 2 1 2
+>1 1
+>0
+>0
 
 donde la primera linea contiene el tamaño del mapa/matriz el cual llamaremos a ese numero **n**.
 Luego en las siguientes **n** filas tendremos como primer numero, la cantidad de datos que posee dicha fila, el cual van a ser necesariamente consecutivas para el fin de este proyecto.
