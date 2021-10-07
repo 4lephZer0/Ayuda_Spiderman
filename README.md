@@ -10,7 +10,7 @@ Una vez clonado/descargado el proyecto debes ejecutar "Proyecto.exe" el cual va 
 ## Contexto:
 Este proyecto se hizo con la base de un nonograma y de la idea de generar un mapa a partir de una entrada con el siguiente formato:
 
->10
+>10\n
 >4 1 2 1 1
 >2 2 1
 >2 1 2
