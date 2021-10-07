@@ -1,7 +1,7 @@
 # Proyecto universitario en C
 
 **Creado y editado por Alan Donoso**
-## instalación
+## Instalación
 
 Una vez clonado/descargado el proyecto debes ejecutar "Proyecto.exe" el cual va a contener tanto la creacion de los archivos de salida como el "juego" base en el cual se debe recorrer el mapa la generación de las salidas es automatica, aun a pesar de no existir dichos archivos de salida; sin las entradas correspondientes el archivo no puede funcionar.
 
