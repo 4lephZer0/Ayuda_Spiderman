@@ -1,4 +1,4 @@
-# Proyecto universitario en C
+# Proyecto en C
 
 **Creado y editado por Alan Donoso**
 ## Instalación
