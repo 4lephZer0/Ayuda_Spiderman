@@ -3,7 +3,7 @@
 **Creado y editado por Alan Donoso**
 ## Instalación
 
-Una vez clonado/descargado el proyecto debes ejecutar "Proyecto.exe" el cual va a contener tanto la creacion de los archivos de salida como el "juego" base en el cual se debe recorrer el mapa la generación de las salidas es automatica, aun a pesar de no existir dichos archivos de salida; sin las entradas correspondientes el archivo no puede funcionar.
+Una vez clonado/descargado el proyecto debes ejecutar **Proyecto.exe** el cual va a contener tanto la creacion de los archivos de salida como el "juego" base en el cual se debe recorrer el mapa la generación de las salidas es automatica, aun a pesar de no existir dichos archivos de salida; sin las entradas correspondientes el archivo no puede funcionar.
 
 ## Contexto
 Este proyecto se hizo con la base de un nonograma y de la idea de generar un mapa a partir de una entrada con el siguiente formato:
